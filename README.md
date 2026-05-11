@@ -1,5 +1,9 @@
 # ToonTanks by vvynerio
 <img width="1442" height="587" alt="Screenshot 2026-05-11 120555" src="https://github.com/user-attachments/assets/8d1685bd-0bc8-4e0c-b507-56794fa01581" />
+
+ToonTanks is a fast paced third person tank shooter where players battle against enemy turrets and tanks across stylized combat arenas.
+The game focus on movement, aiming precision, and strategic combat. Players control a powerful tank and must destroy all enemies while avoiding incoming attacks and surviving increasingly difficult encounters.
+
 Tools: Unreal Engine v4.27.2 and Visual Studio 2019 Community
 
 Build and compile using Unreal Engine v4.27+
@@ -8,5 +12,9 @@ With the keyboard and mouse: Fire projectiles at enemy towers by moving the mous
 
 With the dualsense controller (probably working with other controllers but untested): Fire projectiles with Right Trigger button. Move and rotate tank with the Left Thumbstick.
 
-If you destroy all towers without losing all your health before, the game is won. If you lose all your health, the game is lost.
+
+## Assets Notice
+This repository does not contain all game assets.
+Certain files were omitted because of their large size and repository storage limitations.
+The uploaded assets are sufficient to showcase the project structure and implementation
 
