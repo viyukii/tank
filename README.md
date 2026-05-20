@@ -1,4 +1,4 @@
-# ToonTanks by vvynerio
+# ToonTanks by VIYUKI
 <img width="1442" height="587" alt="Screenshot 2026-05-11 120555" src="https://github.com/user-attachments/assets/8d1685bd-0bc8-4e0c-b507-56794fa01581" />
 
 ToonTanks is a fast paced third person tank shooter where players battle against enemy turrets and tanks across stylized combat arenas.
